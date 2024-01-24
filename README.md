@@ -9,5 +9,6 @@
 - HTML
 - CSS
 - JavaScript
-  
-[image](https://github.com/AnaJulia22/to-do-list/assets/100807129/2ee41218-1503-4c80-bbc3-e752c8ac6034)
+<p align="center">
+  <img src="./images/readme.png"  width="300" height="150">
+</p>
